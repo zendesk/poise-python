@@ -1,5 +1,8 @@
 # Poise-Python Changelog
 
+## v1.8.0
+* Fixes around 18.0 vs 18.1
+
 ## v1.7.1
 
 * Support for Pip 18.1.
